@@ -48,6 +48,11 @@ namespace Promotion_Engine
                 case "D":
                     item.Price = 15m;
                     break;
+                default :
+                    {
+                        Console.WriteLine("Not a Valid Product Type");
+                        return null;
+                    }
             }
             return item;
 
