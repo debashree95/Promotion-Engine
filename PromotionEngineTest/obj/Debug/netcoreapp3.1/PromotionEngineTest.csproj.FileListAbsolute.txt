@@ -94,3 +94,6 @@ C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\obj\Debug\netcor
 C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\obj\Debug\netcoreapp3.1\PromotionEngineTest.dll
 C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\obj\Debug\netcoreapp3.1\PromotionEngineTest.pdb
 C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\obj\Debug\netcoreapp3.1\PromotionEngineTest.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\bin\Debug\netcoreapp3.1\Promotion Engine.exe
+C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\bin\Debug\netcoreapp3.1\Promotion Engine.dll
+C:\Users\DELL\source\repos\Promotion Engine\PromotionEngineTest\bin\Debug\netcoreapp3.1\Promotion Engine.pdb
