@@ -10,6 +10,7 @@ namespace PromotionEngineTest
         [Fact]
         public void NullValueTest()
         {
+            //
 
         }
     }
